@@ -1,4 +1,4 @@
-CASINO
+CASINO (C++ project)
 
 This project simulates a casino. 
 There is a list of players who can choose between Blackjack or Pseudo Roulette. 
